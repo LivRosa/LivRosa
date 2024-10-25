@@ -1,8 +1,7 @@
 ## Hello World, I’m Lívia! 🥇 Be very welcome.
 
-- Sou estágiaria da área de Quality Assurance
-- Estou no 4° semestre do curso de Eng. da Computação
-- Atualmente, meu foco de estudo é a linguagem Front-End.
+- **Computer Engineering student - 4th semester**
+- **Quality Assurance intern**
 
 <div>
   <a href="https://github.com/LivRosa">

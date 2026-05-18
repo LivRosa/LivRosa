@@ -1,7 +1,9 @@
 ## Hello World, I’m Lívia! 🥇 Be very welcome.
 
-- **Computer Engineering student - 4th semester**
+- **Computer Engineering student - 8th semester**
 - **Quality Assurance intern**
+- **Microsoft Dynamics 365**
+- **Product Analyst**
 
 <div>
   <a href="https://github.com/LivRosa">
